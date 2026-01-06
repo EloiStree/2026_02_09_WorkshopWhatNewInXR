@@ -52,7 +52,7 @@ Le Steam Frame est moins adaptées à l’AR destinée au grand public car elles
 **Job :** Je n’ai pas de contact, mais c’est une compétence rare. Tu peux presque lancer une startup sur l’utilisation de Hyperspace pour les Airbnb et autres projets immobiliers.  
 
 **Challenge 7 :** Utiliser deux tags d’OpenCV pour auto-trianguler une scène Unity dans le monde réel (sans utiliser Vuforia).  
-**Job :** Construction et bâtiment utilisant Hololens, Magic Leap et Quest 3.  
+**Job :** Construction et bâtiment utilisant les Hololens like, Magic Leap et Quest 3.  
 
 **Challenge 8 :** Créer une application de prise de mesures via les manettes du Quest 3 et de partage de photos ou vidéos d’un bâtiment.  
 **Job :** Inspection de chantier et rapport de statut communal.  
