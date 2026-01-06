@@ -33,29 +33,29 @@ Le Steam Frame est moins adaptées à l’AR destinée au grand public car elles
 
 ## Liste des challenges de la deuxième semaine
 
-**Challenge 1 , senior:** Filtrer avec des shaders tous les pixels brûlés (lampes) et positionner les casques par rapport à ces points.
-**Job :** XR Intelligence et toutes les boîtes d’applications XR sur le terrain.
+**Challenge 1 , senior:** Filtrer avec des shaders tous les pixels brûlés (lampes) et positionner les casques par rapport à ces points.  
+**Job :** XR Intelligence et toutes les boîtes d’applications XR sur le terrain.  
 
-**Challenge 2 , senior:** Utiliser la détection de contours pour détecter les bâtiments et positionner le casque sur la place de Charleroi.
-**Job :** Permettre de charger des niveaux dans le monde réel.
+**Challenge 2 , senior:** Utiliser la détection de contours pour détecter les bâtiments et positionner le casque sur la place de Charleroi.  
+**Job :** Permettre de charger des niveaux dans le monde réel.  
 
-**Challenge 3 :** Apprendre à utiliser Roboflow avec Sentis de Unity3D directement dans le casque (l’entraîner à détecter un objet en amont).
-**Job :** Toutes les sociétés qui utilisent la caméra du Quest pour fournir du contexte aux utilisateurs.
+**Challenge 3 :** Apprendre à utiliser Roboflow avec Sentis de Unity3D directement dans le casque (l’entraîner à détecter un objet en amont).  
+**Job :** Toutes les sociétés qui utilisent la caméra du Quest pour fournir du contexte aux utilisateurs.  
 
-**Challenge 4 :** Créer une application pour aveugles via OpenAI et/ou Roboflow sur le Quest 3 (bonus : utiliser la combinaison bHaptics pour un retour sur ce qui se trouve en face de l’utilisateur).
-**Job :** Contacter La Lumière pour un stage, ainsi que l’institut pour les malvoyants de Mons.
+**Challenge 4 :** Créer une application pour aveugles via OpenAI et/ou Roboflow sur le Quest 3 (bonus : utiliser la combinaison bHaptics pour un retour sur ce qui se trouve en face de l’utilisateur).   
+**Job :** Contacter La Lumière pour un stage, ainsi que l’institut pour les malvoyants de Mons.  
 
-**Challenge 5 :** Créer une application stéréo 180° à partir du contenu du Qoocam-Ego.
-**Job :** Contacter Poolpio et ses concurrents pour un stage dans les applications de visualisation 360 et stéréo.
+**Challenge 5 :** Créer une application stéréo 180° à partir du contenu du Qoocam-Ego.  
+**Job :** Contacter Poolpio et ses concurrents pour un stage dans les applications de visualisation 360 et stéréo.   
 
-**Challenge 6 :** Explorer l’export des créations de Hyperspace du Quest 3 et leur utilisation (si impossible, essayer d’utiliser du Gaussian Splatting dans Unity3D).
-**Job :** Je n’ai pas de contact, mais c’est une compétence rare. Tu peux presque lancer une startup sur l’utilisation de Hyperspace pour les Airbnb et autres projets immobiliers.
+**Challenge 6 :** Explorer l’export des créations de Hyperspace du Quest 3 et leur utilisation (si impossible, essayer d’utiliser du Gaussian Splatting dans Unity3D).  
+**Job :** Je n’ai pas de contact, mais c’est une compétence rare. Tu peux presque lancer une startup sur l’utilisation de Hyperspace pour les Airbnb et autres projets immobiliers.  
 
-**Challenge 7 :** Utiliser deux tags d’OpenCV pour auto-trianguler une scène Unity dans le monde réel (sans utiliser Vuforia).
-**Job :** Construction et bâtiment utilisant Hololens, Magic Leap et Quest 3.
+**Challenge 7 :** Utiliser deux tags d’OpenCV pour auto-trianguler une scène Unity dans le monde réel (sans utiliser Vuforia).  
+**Job :** Construction et bâtiment utilisant Hololens, Magic Leap et Quest 3.  
 
-**Challenge 8 :** Créer une application de prise de mesures via les manettes du Quest 3 et de partage de photos ou vidéos d’un bâtiment.
-**Job :** Inspection de chantier et rapport de statut communal.
+**Challenge 8 :** Créer une application de prise de mesures via les manettes du Quest 3 et de partage de photos ou vidéos d’un bâtiment.  
+**Job :** Inspection de chantier et rapport de statut communal.  
 
 ---
 
