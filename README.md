@@ -70,4 +70,4 @@ Le Steam Frame est moins adaptées à l’AR destinée au grand public car elles
 * [https://stereopsia.com](https://stereopsia.com)
 * [https://www.gamescom.global/en](https://www.gamescom.global/en)
 * [https://laval-virtual.com](https://laval-virtual.com)
-
+* Les Hackathons du https://sensaihack.com
