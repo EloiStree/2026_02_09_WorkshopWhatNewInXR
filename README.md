@@ -40,7 +40,7 @@ Le Steam Frame est moins adaptées à l’AR destinée au grand public car elles
 **Job :** Permettre de charger des niveaux dans le monde réel.  
 
 **Challenge 3 :** Apprendre à utiliser Roboflow avec Sentis de Unity3D directement dans le casque (l’entraîner à détecter un objet en amont).  
-**Job :** Toutes les sociétés qui utilisent la caméra du Quest pour fournir du contexte aux utilisateurs.  
+**Job :** Toutes les sociétés qui utilisent la caméra du Quest pour fournir du contexte aux utilisateurs et entreprise d'AI sur l image. 
 
 **Challenge 4 :** Créer une application pour aveugles via OpenAI et/ou Roboflow sur le Quest 3 (bonus : utiliser la combinaison bHaptics pour un retour sur ce qui se trouve en face de l’utilisateur).   
 **Job :** Contacter La Lumière pour un stage, ainsi que l’institut pour les malvoyants de Mons.  
