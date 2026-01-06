@@ -18,7 +18,7 @@ Pour la deuxième semaine, l’idée est de pratiquer le métier de la recherche
 Choisissez, par groupe de 2 ou 3, un des challenges suivants.
 
 Vous avez une semaine pour tenter de faire l’impossible et créer une vidéo YouTube qui synthétise votre découverte.
-Ce qui est intéressant ici, ce n’est pas de montrer que vous avez réussi, mais de communiquer sur les possibilités ou non de réaliser le challenge, ainsi que d’expliquer comment y parvenir ou par où continuer pour une personne intéressée par la R&D.
+Ce qui est intéressant ici, ce n’est pas de montrer que vous avez réussi, mais de communiquer sur les possibilités ou non de réaliser le challenge, ainsi que d’expliquer comment y parvenir.
 
 Si vous arrivez à relever le challenge, cela veut dire que vous correspondez aux besoins de nombreuses entreprises dans le domaine.
 Utilisez cet atelier pour prospecter un PFI ou un emploi.
