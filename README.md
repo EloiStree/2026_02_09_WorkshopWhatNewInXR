@@ -5,7 +5,7 @@
 
 **Contexte :**
 En XR, il y a beaucoup de recherche et développement. Ce qui semble aujourd’hui impossible peut, une fois résolu ou exploré, mener à des stages ou à de l’emploi.   
-Dans cette formation, nous allons prendre le temps de pratiquer des sujets difficiles en XR, qui vous rendront uniques sur le marché actuel.    
+Dans cette formation, nous allons prendre le temps de parler des sujets difficiles en XR.      
 
 
 **Caméra de Meta :**
