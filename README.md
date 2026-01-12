@@ -41,7 +41,7 @@ La couleur 😅🎨
 * Une webcam par personne, afin d’éviter de devoir remettre le casque toutes les cinq minutes    
 
 
-Pour cet atelier, je propose de pratiquer les sujets suivants :  
+**Pour cet atelier, je propose de pratiquer les sujets suivants:** 
 * Comment accéder à la caméra du Quest 3 en tant que `TextureRenderer`
   * Enregistrer des photos sur le casque
 * Comment appliquer au `TextureRenderer` un filtre Shader Graph ou un Compute Shader
@@ -52,7 +52,7 @@ Pour cet atelier, je propose de pratiquer les sujets suivants :
 * Challenge : Créer sur un GitHub a 12 Reality Hacker pour le Quest 3 et téléphone Android
   
 
-Pour cet atelier, je propose de parler des sujets suivants :
+**Pour cet atelier, je propose de parler des sujets suivants:**
 * Le traitement de l’image en utilisant des compute shaders sur les caméras du Quest afin de filtrer les couleurs
 * OpenCV de l’Asset Store sur l’image du Quest
 * Roboflow et l’API OpenAI pour l’image
