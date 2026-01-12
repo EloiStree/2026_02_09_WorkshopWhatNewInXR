@@ -3,10 +3,13 @@
 
 > Si le Steam Frame tombe dans mes mains avant l’atelier, le cours peut changer.   
 
-**Contexte :**
-En XR, il y a beaucoup de recherche et développement. Ce qui semble aujourd’hui impossible peut, une fois résolu ou exploré, mener à des stages ou à de l’emploi.   
-Dans cette formation, nous allons prendre le temps de parler des sujets difficiles en XR.      
+**Atelier: Recoder Reality Hacker sur Quest3**
+[<img width="1336" height="741" alt="image" src="https://github.com/user-attachments/assets/578c18e1-6b93-440c-ab1e-739c1e6f1526" />](https://youtu.be/JnZOoryLwAI)
 
+_Reality Hacker, Archive Video: https://youtu.be/JnZOoryLwAI_
+
+[<img width="1216" height="682" alt="image" src="https://github.com/user-attachments/assets/8339a31e-983e-4a12-97b3-c485da97c07b" />](https://youtu.be/1WNZ1vsFwXY?t=169)
+_Li-Fi: Couleur et luminositer: https://youtu.be/1WNZ1vsFwXY?t=169_
 
 **Caméra de Meta :**
 
@@ -28,14 +31,7 @@ La couleur 😅🎨
 
 * Savoir faire tourner une IA avec Sentis sur Unity3D
 * Savoir exporter une image pour être traitée en ligne (avec Flask, REST, etc.)
-* Savoir utiliser Roboflow
-
-**Défi : Meta Ray-Ban pour aveugle**
-J’ai rencontré un malvoyant durant une conférence éducative utilisant les Meta Ray-Ban.     
-Le fait de pouvoir demander ce qu’il voit en face de lui était miraculeux.   
-
-Durant cette semaine, nous allons voir ce que l’on peut faire pour recréer l’application Reality Hacker    
-et voir comment préfiltrer l’image pour pouvoir l’envoyer à des services comme Roboflow.   
+* Savoir utiliser Roboflow 
 
 **Matériel :**
 * Un casque Quest 3 par personne    
@@ -43,20 +39,17 @@ et voir comment préfiltrer l’image pour pouvoir l’envoyer à des services c
 
 
 Pour cet atelier, je propose de pratiquer les sujets suivants :  
-
 * Comment accéder à la caméra du Quest 3 en tant que `TextureRenderer`
   * Enregistrer des photos sur le casque
 * Comment appliquer au `TextureRenderer` un filtre Shader Graph ou un Compute Shader
-* Pratiquer la conversion de ShaderToy vers Unity sur une webcam et sur le Quest 3
+* Pratiquer la conversion de ShaderToy vers Unity
   * Parlons couleurs et lumière
 * Challenge : Compute vs Job System, cherchons des blobs
   * Parlons frames et millisecondes
-* Challenge : Créer en groupe Reality Hacker sur Unity3D pour le Quest 3 et téléphone Android
-  * Parlons OpenAI API, OpenCV et Roboflow
-  * Parlons transmission du `TextureRenderer` vers Flask en Python
+* Challenge : Créer sur un GitHub a 12 Reality Hacker pour le Quest 3 et téléphone Android
+  
 
 Pour cet atelier, je propose de parler des sujets suivants :
-
 * Le traitement de l’image en utilisant des compute shaders sur les caméras du Quest afin de filtrer les couleurs
 * OpenCV de l’Asset Store sur l’image du Quest
 * Roboflow et l’API OpenAI pour l’image
@@ -75,6 +68,10 @@ Il vous prépare un exercice Unity3D propre à son expertise.
 ---
 
 ## Liste des challenges "impossibles"
+
+Il y a de nombreux sujets, et j’aimerais en parler ou partager mes connaissances dans le but de faire de la recherche et du développement.
+Chacun de ces sujets peut mener à un stage, un contrat freelance ou un emploi.
+N’hésitons pas à en discuter durant l’atelier.
 
 **Challenge 1, senior :** Filtrer avec des shaders tous les pixels brûlés (lampes) et positionner les casques par rapport à ces points.
 **Job :** XR Intelligence et toutes les boîtes d’applications XR sur le terrain.
