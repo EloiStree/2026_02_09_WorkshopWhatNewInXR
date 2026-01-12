@@ -3,13 +3,17 @@
 
 > Si le Steam Frame tombe dans mes mains avant l’atelier, le cours peut changer.   
 
-**Atelier: Recoder Reality Hacker sur Quest3**
+**Atelier : Recoder Reality Hacker sur Quest 3**
 [<img width="1336" height="741" alt="image" src="https://github.com/user-attachments/assets/578c18e1-6b93-440c-ab1e-739c1e6f1526" />](https://youtu.be/JnZOoryLwAI)
 
-_Reality Hacker, Archive Video: https://youtu.be/JnZOoryLwAI_
+*Reality Hacker, archive vidéo : [https://youtu.be/JnZOoryLwAI](https://youtu.be/JnZOoryLwAI)*
 
 [<img width="1216" height="682" alt="image" src="https://github.com/user-attachments/assets/8339a31e-983e-4a12-97b3-c485da97c07b" />](https://youtu.be/1WNZ1vsFwXY?t=169)
-_Li-Fi: Couleur et luminositer: https://youtu.be/1WNZ1vsFwXY?t=169_
+*Li-Fi : couleur et luminosité : [https://youtu.be/1WNZ1vsFwXY?t=169](https://youtu.be/1WNZ1vsFwXY?t=169)*
+
+[<img width="977" height="572" alt="image" src="https://github.com/user-attachments/assets/d0ff952c-8598-4df3-b618-54bcd3ede689" />](https://youtu.be/mWer5XsM5sE?t=2065)
+*Webcam et reflet de lumière : [https://youtu.be/mWer5XsM5sE?t=2065](https://youtu.be/mWer5XsM5sE?t=2065)*
+
 
 **Caméra de Meta :**
 
