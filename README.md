@@ -1,28 +1,28 @@
 
 # Workshop: What’s New in XR
 
-> Si le Steam Frame tombe dans mes mains avant l’atelier, le cours peut changer.
+> Si le Steam Frame tombe dans mes mains avant l’atelier, le cours peut changer.   
 
 **Contexte :**
-En XR, il y a beaucoup de recherche et développement. Ce qui semble aujourd’hui impossible peut, une fois résolu ou exploré, mener à des stages ou à de l’emploi.
-Dans cette formation, nous allons prendre le temps de pratiquer des sujets difficiles en XR, qui vous rendront uniques sur le marché actuel.
+En XR, il y a beaucoup de recherche et développement. Ce qui semble aujourd’hui impossible peut, une fois résolu ou exploré, mener à des stages ou à de l’emploi.   
+Dans cette formation, nous allons prendre le temps de pratiquer des sujets difficiles en XR, qui vous rendront uniques sur le marché actuel.    
 
 
 **Caméra de Meta :**
 
-🍻 L’année passée, nous avons eu accès aux caméras du Quest 3.
-Meta a donc organisé des hackathons AI Sensai à travers le monde.
+🍻 L’année passée, nous avons eu accès aux caméras du Quest 3.    
+Meta a donc organisé des hackathons AI Sensai à travers le monde.    
 
-L’idée : apprendre à utiliser la reconnaissance d’image des lunettes Meta en pratiquant sur le Quest 3.
-Préparer l’avenir AR des smart glasses.
+L’idée : apprendre à utiliser la reconnaissance d’image des lunettes Meta en pratiquant sur le Quest 3.     
+Préparer l’avenir AR des smart glasses.   
 
-Une forte incitation à utiliser Roboflow et OpenCV durant ces hackathons.
-Ce que j’ai appris en jouant avec les caméras, c’est que l’on est confronté à un nouveau problème :
+Une forte incitation à utiliser Roboflow et OpenCV durant ces hackathons.    
+Ce que j’ai appris en jouant avec les caméras, c’est que l’on est confronté à un nouveau problème :   
 La couleur 😅🎨
 
-* Les webcams ne perçoivent pas le monde comme nous le voyons.
-* La lumière ambiante change le contexte.
-* Les lumières colorées de l’environnement détruisent la reconnaissance d’objets.
+* Les webcams ne perçoivent pas le monde comme nous le voyons.   
+* La lumière ambiante change le contexte.    
+* Les lumières colorées de l’environnement détruisent la reconnaissance d’objets.   
 
 **Compétences utiles pour un hackathon Sensai :**
 
@@ -31,18 +31,18 @@ La couleur 😅🎨
 * Savoir utiliser Roboflow
 
 **Défi : Meta Ray-Ban pour aveugle**
-J’ai rencontré un malvoyant durant une conférence éducative utilisant les Meta Ray-Ban.
-Le fait de pouvoir demander ce qu’il voit en face de lui était miraculeux.
+J’ai rencontré un malvoyant durant une conférence éducative utilisant les Meta Ray-Ban.     
+Le fait de pouvoir demander ce qu’il voit en face de lui était miraculeux.   
 
-Durant cette semaine, nous allons voir ce que l’on peut faire pour recréer l’application Reality Hacker
-et voir comment préfiltrer l’image pour pouvoir l’envoyer à des services comme Roboflow.
+Durant cette semaine, nous allons voir ce que l’on peut faire pour recréer l’application Reality Hacker    
+et voir comment préfiltrer l’image pour pouvoir l’envoyer à des services comme Roboflow.   
 
 **Matériel :**
-* Un casque Quest 3 par personne  
-* Une webcam par personne, afin d’éviter de devoir remettre le casque toutes les cinq minutes  
+* Un casque Quest 3 par personne    
+* Une webcam par personne, afin d’éviter de devoir remettre le casque toutes les cinq minutes    
 
 
-Pour cet atelier, je propose de pratiquer les sujets suivants :
+Pour cet atelier, je propose de pratiquer les sujets suivants :  
 
 * Comment accéder à la caméra du Quest 3 en tant que `TextureRenderer`
   * Enregistrer des photos sur le casque
@@ -69,8 +69,8 @@ Pour cet atelier, je propose de parler des sujets suivants :
 
 # Deuxième semaine
 
-La deuxième semaine est organisée par Vincent Leroy.
-Il vous prépare un exercice Unity3D propre à son expertise.
+La deuxième semaine est organisée par Vincent Leroy.   
+Il vous prépare un exercice Unity3D propre à son expertise.   
 
 ---
 
