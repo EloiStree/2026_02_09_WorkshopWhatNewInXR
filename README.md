@@ -42,14 +42,14 @@ La couleur 😅🎨
 
 
 **Pour cet atelier, je propose de pratiquer les sujets suivants:** 
-* Comment accéder à la caméra du Quest 3 en tant que `TextureRenderer`
+* Day 1: Comment accéder à la caméra du Quest 3 en tant que `TextureRenderer`
   * Enregistrer des photos sur le casque
-* Comment appliquer au `TextureRenderer` un filtre Shader Graph ou un Compute Shader
-* Pratiquer la conversion de ShaderToy vers Unity
+* Day 2: Comment appliquer au `TextureRenderer` un filtre Shader Graph ou un Compute Shader
+* Day 3:Pratiquer la conversion de ShaderToy vers Unity
   * Parlons couleurs et lumière
-* Challenge : Compute vs Job System, cherchons des blobs
+* Day 4: Challenge : Compute vs Job System, cherchons des blobs
   * Parlons frames et millisecondes
-* Challenge : Créer sur un GitHub a 12, un Reality Hacker pour le Quest 3 et téléphone Android
+* Day 5: Challenge : Créer sur un GitHub a 12, un Reality Hacker pour le Quest 3 et téléphone Android
   
 
 **Pour cet atelier, je propose de parler des sujets suivants:**
