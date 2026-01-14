@@ -49,7 +49,7 @@ La couleur 😅🎨
   * Parlons couleurs et lumière
 * Challenge : Compute vs Job System, cherchons des blobs
   * Parlons frames et millisecondes
-* Challenge : Créer sur un GitHub a 12 Reality Hacker pour le Quest 3 et téléphone Android
+* Challenge : Créer sur un GitHub a 12, un Reality Hacker pour le Quest 3 et téléphone Android
   
 
 **Pour cet atelier, je propose de parler des sujets suivants:**
