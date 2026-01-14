@@ -116,3 +116,18 @@ N’hésitons pas à en discuter durant l’atelier.
 * [https://www.gamescom.global/en](https://www.gamescom.global/en)
 * [https://laval-virtual.com](https://laval-virtual.com)
 * Les hackathons de [https://sensaihack.com](https://sensaihack.com)
+
+
+
+
+
+
+
+
+
+
+-----------------
+
+
+Use Hugging Face en Unity:  
+- https://youtu.be/QIa6frPMcSQ?t=223  
