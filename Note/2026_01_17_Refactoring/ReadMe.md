@@ -47,3 +47,6 @@ Texture Toolbox: https://github.com/EloiStree/2025_06_13_ToolboxTexture2D
 
 https://github.com/EloiStree/2025_06_13_upm_texture2d_to_flask:
 - ProcessImageForDataAsColor32HTTP Send image to an Flask URL with widht and height in front.
+
+https://github.com/EloiStree/2025_06_13_python_texture2d_flask_server_color32:
+- Allows to have a python flask server to process given Texture2D of Unity from webcam.
