@@ -50,3 +50,9 @@ https://github.com/EloiStree/2025_06_13_upm_texture2d_to_flask:
 
 https://github.com/EloiStree/2025_06_13_python_texture2d_flask_server_color32:
 - Allows to have a python flask server to process given Texture2D of Unity from webcam.
+
+
+https://github.com/EloiStree/2025_06_19_upm_webcam_to_ping_pong_balls
+- Try to use webcam image to track a tennis table ball for tracking.
+
+
