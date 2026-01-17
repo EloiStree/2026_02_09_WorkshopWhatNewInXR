@@ -1,3 +1,10 @@
+En construction:
+- Note de project de Juillet:
+  - https://github.com/EloiStree/2026_02_09_WorkshopWhatNewInXR/blob/main/Note/2026_01_17_Refactoring/ReadMe.md
+
+
+---------
+
 
 # Workshop: What’s New in XR
 
