@@ -25,3 +25,23 @@ https://github.com/EloiStree?tab=repositories&q=2025_06_&type=&language=&sort=
 Python server to recover Image from the Quest on PC for AI, Open CV...:
 - https://github.com/EloiStree/2025_06_13_QuestFlaskServerColor32
   
+
+====
+
+Source: https://github.com/oculus-samples/Unity-PassthroughCameraApiSamples
+They use:
+- [Meta MRUK (v81 or higher)](https://assetstore.unity.com/packages/tools/integration/meta-mr-utility-kit-272450)
+- [Unity Sentis](https://unity.com/features/ai) for object detection
+  
+Play with Meta Camera Tool: https://github.com/EloiStree/2025_06_13_PlayWithCameraAPI.git 
+[<img width="560" height="298" alt="image" src="https://github.com/user-attachments/assets/ec7b7b07-8d0f-4a33-ab4f-2c408dd7b255" />](https://github.com/EloiStree/2025_06_13_PlayWithCameraAPI.git)
+- WebCamTextureManager : Will turn the Meta code to a Webcam
+- PassthroughCameraPermissions : Will ask the Meta Camera permission
+- WebCamTextureManagerRelayMono : Relay the webcam of Meta into a WebCamTexture in Unity
+- ApplyWebCamTextureToRenderingMono: Apply the WebCamTexture to a renderer or material
+- ApplyTexture2DToRenderingMono: Apply a given Texture2D to a renderer or material
+
+Texture Toolbox: https://github.com/EloiStree/2025_06_13_ToolboxTexture2D
+- TextureMono_WebCamTextureToRenderTexture : Turn a Webcam Texture to a RenderTexture
+- TextureMono_RenderTextureToFileRelativeSaveWithDate : Allows to save RendererAsTexture with the date in it.
+- 
